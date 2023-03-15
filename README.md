@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VillSource/VillSource/output/snake.sv" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VillSource/VillSource/output/snake.svg" alt="Snake animation" />
 
 ###
