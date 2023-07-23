@@ -14,7 +14,12 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Computer Science at KKU<br>🎯 Goals: to be a .NET expert <br>🎲 Fun fact: I want to make a game but I don't play a game</p>
+<p align="left">
+  📚 I'm currently learning Computer Science at KKU<br>
+  🎯 Goals: to be a .NET expert <br>
+  👍 I link to work with web technologies <br>
+  ⌚ I hope I can develop mobile applications, web application, desktop application and all .NET can do
+</p>
 
 ###
 
