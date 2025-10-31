@@ -1,27 +1,55 @@
-<img align="right" src="https://profile-counter.glitch.me/villsource/count.svg?"  />
+# Hi, I'm VillSource 👋
 
-###
+> Backend Developer with nearly 2 years of experience, specializing in **ASP.NET**, **Angular**, and **Clean Architecture**
 
-<h1 align="left">Hey 👋 What's up?</h1>
+I'm a developer from Bangkok, Thailand 🇹🇭, passionate about building robust services and clean, maintainable code.
 
-###
+-   💼 Currently a **.Net Developer** at **Bangkok Bank**, focusing on oCRM systems.
+-   🌱 I enjoy applying principles like **Domain-Driven Design (DDD)** and **Clean Architecture**.
+-   🚀 My experience covers the full stack, from backend APIs in .NET to front-end implementation with **Angular**.
 
-<p align="left">I'm a Web developer, from KKU</p>
+---
 
-And this is ["My Senior Project@KKU"](https://github.com/UntitleCMS)
+### 🛠️ My Tech Stack
 
-###
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | .NET, ASP.NET, Aspire, EF Core, Nest.js |
+| **Frontend** | Angular |
+| **Languages** | C#, TypeScript |
+| **Databases** | SQL Server, MongoDB |
+| **Testing** | xUnit, Moq, Playwright |
+| **Cloud & DevOps** | Azure (CI/CD), GCP (basic), Docker, GitHub Actions |
+| **Concepts** | Clean Architecture, DDD, OpenIDConnect, Micro-frontends |
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🚀 My Open Source Projects
 
-<p align="left">
-  📚 I'm currently learning Computer Science at KKU<br>
-  🎯 Goals: to be a .NET expert <br>
-  👍 I link to work with web technologies <br>
-  ⌚ I hope I can develop mobile applications, web application, desktop application and all .NET can do
-</p>
+* **[Villsource.Net](https://github.com/VillSource/Villsource.Net)**
+    * A common .NET library used in my projects, implementing patterns like Result, Mediator, and a Shared Kernel for DDD.
+* **[Beta-Blog](https://github.com/UntitleCMS)**
+    * A web blog designed for developers, featuring an embedded online compiler to create interactive tutorials.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###
 
